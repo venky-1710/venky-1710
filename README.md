@@ -1,10 +1,5 @@
 # 👋 Hello, I'm VenkateswaraRao
 
-![Header Image](https://your-header-image-url)
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-
 ## About Me
 ---
 Hi there! I’m VenkateswaraRao, currently pursuing my B.Tech in Computer Science & Engineering at KIET College 🎓, specializing in Artificial Intelligence. I’m passionate about solving problems through code and building innovative tech solutions 💻. This README is my personal portfolio to showcase my projects, skills, and future aspirations. Let’s dive in! 🚀
@@ -18,11 +13,11 @@ Hi there! I’m VenkateswaraRao, currently pursuing my B.Tech in Computer Scienc
 - *Interests*: Problem-solving, Competitive Programming, Open-source Contributions, Hackathon Participation 🏆
 
 ## Projects:
-1. **Expense Tracker** 💰 - A web application for tracking daily expenses. It allows users to log, categorize, and visualize their spending habits over time, built with HTML, CSS, JavaScript, and Firebase.
+1. **Full-Stack Note-Taking App** 💰 - A full-stack web application that allows users to create, manage, and securely store personal notes. Built with React for the frontend and Flask for the backend, this project showcases my ability to develop end-to-end solutions..
 
-2. **Password Generator** 🔒 - A Python tool that generates strong and secure passwords by combining letters, symbols, and numbers, helping users protect their online accounts.
+2. **AI-Powered Stress Level Predictor** 🔒 - Stress Level Predictor is an innovative web application that utilizes machine learning to predict an individual's stress level based on various personal and environmental factors. Built with Python, Flask, and scikit-learn, this tool employs a Decision Tree Classifier to analyze user inputs and provide accurate stress level assessments.
 
-3. **Snake Game** 🐍 - A classic Snake game created in Python using the Pygame library, featuring continuous movement, edge wrapping, and engaging gameplay.
+3. **Todo List** 🐍 - Developed a dynamic Todo List application using Flask and Python. This web-based tool allows users to create, manage, and track their tasks efficiently. Key features include adding new todos, marking tasks as complete, and deleting items. The project demonstrates proficiency in backend development with Flask, frontend integration using HTML templates, and basic CRUD operations.
 
 ## Connect with Me:
 - *Email*: [venkysss47@gmail.com ✉️
