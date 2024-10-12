@@ -1,6 +1,6 @@
 # 👋 Hello, I'm VenkateswaraRao
 
-![MasterHead](banner.gif)
+![image](banner.gif)
 
 ## About Me
 ---
