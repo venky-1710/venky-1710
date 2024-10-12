@@ -20,9 +20,9 @@ Hi there! I’m VenkateswaraRao, currently pursuing my B.Tech in Computer Scienc
 3. **Todo List** 🐍 - Developed a dynamic Todo List application using Flask and Python. This web-based tool allows users to create, manage, and track their tasks efficiently. Key features include adding new todos, marking tasks as complete, and deleting items. The project demonstrates proficiency in backend development with Flask, frontend integration using HTML templates, and basic CRUD operations.
 
 ## Connect with Me:
-- *Email*: [venkysss47@gmail.com ✉️
-- *LinkedIn*: [Your LinkedIn](https://www.linkedin.com/in/venky1710) 🌐
-- *GitHub*: [Your GitHub](https://github.com/venky-1710) 🐙
+- *Email*: venkysss47@gmail.com ✉️
+- *LinkedIn*: [venky1710](https://www.linkedin.com/in/venky1710) 🌐
+- *GitHub*: [venky-1710](https://github.com/venky-1710) 🐙
 
 ## Feedback Welcome:
 I’m always eager to learn and grow as a developer. If you have any feedback, suggestions, or just want to connect, feel free to reach out via email or on LinkedIn. 😊
