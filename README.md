@@ -2,6 +2,8 @@
 
 ![image](banner.gif)
 
+[![](https://visitcount.itsvg.in/api?id=venky-1710&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ## About Me
 ---
 Hi there! I’m VenkateswaraRao, currently pursuing my B.Tech in Computer Science & Engineering at KIET College 🎓, specializing in Artificial Intelligence. I’m passionate about solving problems through code and building innovative tech solutions 💻. This README is my personal portfolio to showcase my projects, skills, and future aspirations. Let’s dive in! 🚀
