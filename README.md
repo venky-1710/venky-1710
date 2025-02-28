@@ -6,7 +6,7 @@
 
 ## About Me
 ---
-Hi there! I’m VenkateswaraRao, currently pursuing my B.Tech in Computer Science & Engineering at KIET College 🎓, specializing in Artificial Intelligence. I’m passionate about solving problems through code and building innovative tech solutions 💻. This README is my personal portfolio to showcase my projects, skills, and future aspirations. Let’s dive in! 🚀
+Hi there! I’m VenkateswaraRao, currently pursuing my B.Tech in Computer Science & Engineering at KIET College 🎓, specializing in Artificial Intelligence. I’m passionate about solving problems through code and building innovative tech solutions 💻. This README is my personal portfolio to showcase my projects, skills, and future aspirations. Let’s dive in!! 🚀
 
 ## Skills & Interests:
 - *Programming Languages*: Python, C, HTML, CSS, JavaScript (basic knowledge) 🖥️
